@@ -1,0 +1,8 @@
+# UDEA_proyecto_desertores
+Modelo Predictivo de Deserción Estudiantil de Educación Preescolar, Básica y Media en el Municipio de Medellín
+
+Teniendo en cuenta la problemática alrededor de la deserción estudiantil y la desescolarización en los niveles de Educación Preescolar, Básica y Media, el Municipio de Medellín desde la Secretaría de Educación ha implementado distintas estrategias, tales como; donatón tecnológica, el programa de Entorno Escolar Protector, entrega de kits escolares, transporte escolar, entre otros, con el fin de fortalecer, velar y garantizar el cumplimiento del derecho al acceso y la permanencia educativa. Sin embargo, se requiere optimizar la priorización de aquellos estudiantes que según la evidencia de los datos tienen el mayor riesgo de desertar del servicio educativo y anticiparse a esta situación con el fin de tomar acciones de control frente a la focalización de las estrategias a esta población que mitiguen este panorama e incida en las necesidades reales de los niños, niñas, adolescentes y establecimientos educativos.
+
+Por lo anterior, con el propósito de disminuir la tasa de deserción en Medellín, es posible implementar modelos predictivos mediante las técnicas de Machine Learning que permitan clasificar a aquellos estudiantes que, según sus características académicas, sociodemográficas, socioeconómicas, subjetivas y familiares presentan un mayor riesgo de abandonar la escuela en el sector Oficial.
+
+El proyecto presentado, al contener información confidencial y licenciada, no será reproducible, sin embargo, se podrán observar los pasos requeridos para la aproximación analítica sobre el problema identificado de clasificación binaria de aprendizaje supervidado.
